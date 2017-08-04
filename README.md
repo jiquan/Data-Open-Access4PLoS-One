@@ -12,6 +12,6 @@ This website is just a demo for explaining our paper more clearly. It has a basi
 
 HOW TO USE THE WEBSITE.
 
-First step: upload an image. (We have also upload some test images for this website. These images are contained in the folder named "images_for_website" on this github.)
+First step: upload an image. (We have also upload some test images (images not used in our paper) for this website. These images are contained in the folder named "images_for_website" on this github.)
 
 Second step: click "classify" and wait for the result.
