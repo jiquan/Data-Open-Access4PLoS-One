@@ -10,8 +10,14 @@ We have developed a website for gastric precancerous diseases classification usi
 
 This website is just a demo for explaining our paper more clearly. It has a basic function of prediction. You can upload any image with any size for a classifying result. However, we strongly recommend that the users should upload the images related with gastroscopy, because our model is for 3 types of gastric precancerous diseases classification, namely, erosion, polyp and ulcer.
 
-HOW TO USE THE WEBSITE.
+
+HOW TO USE THE WEBSITE:
+
 
 First step: upload an image. (We have also upload some test images (images not used in our paper) for this website. These images are contained in the folder named "images_for_website" on this github.)
 
 Second step: click "classify" and wait for the result.
+
+
+
+This website classifies images using CPU, which may cost a few seconds for prediction.
